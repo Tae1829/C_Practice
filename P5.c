@@ -26,3 +26,5 @@ float pythagorus(sideLength s) {
     result = sqrt(pow(s.x, 2) + pow(s.y, 2));
     return result;
 }
+
+//comment test
